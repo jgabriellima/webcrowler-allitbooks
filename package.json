@@ -1,0 +1,28 @@
+{
+  "name": "zombiedev",
+  "private": true,
+  "version": "0.0.1",
+  "description": "webcrowler for get any videos on Devmedia",
+  "keywords": [],
+  "dependencies": {
+    "zombie": "4.0.8",
+    "cheerio": "*",
+    "nedb": "*",
+    "request": "*",
+    "simple-ssh": "*",
+    "ssh2": "*",
+    "request":"*",
+    "url":"*",
+    "query-string":"*",
+    "glob":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jgabriellima/zombiedev.git"
+  },
+  "author": "jgabriellima",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-packager": "^5.0.1"
+  }
+}
